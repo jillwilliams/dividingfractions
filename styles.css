@@ -1,0 +1,142 @@
+body {
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-left: 30px;
+    margin-right: 30px;
+    background-color: #FFFFCC;
+    text-align: left;
+
+}
+/* TEXT-TITLE:    "DIVIDING FRACTIONS" */
+#h2 {
+    font-size: 2rem;
+    color: blue;
+    font-family: 'Love Ya Like A Sister',cursive;
+    letter-spacing: 3px;
+    text-align: center;
+    font-weight: bold;
+}
+/* DIV:  RULE ONE  */
+#ruleOne {
+    width: 70%;
+    height: auto;
+    border: 2px black solid;
+    outline: 3px lime solid;
+    background-color: blue;
+    display: block;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+/* PARAGRAPH:    "IN ORDER TO DIVIDE: ....." */
+.para {
+    font-size: 1.8rem;
+    color: red;
+    font-family: 'Love Ya Like A Sister', cursive;
+    text-align: center;
+}
+/* TEXT:   EXAMPLE 1  */
+.para2 {
+    font-size: 1.5rem;
+    font-family: 'Love Ya Like A Sister', cursive;
+    color: red;
+    display: inline-block;
+    margin-right: 50px;
+    text-align: left;
+}
+/* IMAGE:    MAIN EXAMPLE HOW TO DIVIDE */
+#mainExample {
+    width: 280px;
+    height: auto;
+    border: 2px black solid;
+    outline: 3px lime solid;
+    display: inline-block;
+    margin-right: 50px;
+}
+/* TEXT:   EXAMPLE 2  */
+.para3 {
+    font-size: 1.5rem;
+    font-family: 'Love Ya Like A Sister', cursive;
+    color: red;
+    display: inline-block;
+}
+/* IMAGE:    2nd EXAMPLE HOW TO DIVIDE */
+#mainExample_2 {
+    width: 272px;
+    height: auto;
+    border: 2px black solid;
+    outline: 3px lime solid;
+    display: inline-block;
+}
+/* DIV container:    WHAT IF THE NUMBERS DON'T DIVIDE?.. */
+#whatIf {
+    width: 60%;
+    height: 30%;
+    font-size: 1.5rem;
+    font-family: 'Love Ya Like A Sister', cursive;
+    border: 1px black solid;
+    background-color: blue;
+    margin-left: 20%;
+    margin-right: 20%;
+    padding: 5px;
+    text-align: center;
+}
+/* TEXT:   "WHAT IF THE NUMBERS DON'T DIVIDE EVENLY?"  */
+.para4 {
+    font-size: 1.5rem;
+    font-family: 'Love Ya Like A Sister', cursive;
+    color: red;
+    display: inline-block;
+    text-align: left;
+}
+/* TEXT INSIDE THE COLORED TEXT-BOXES */
+.para11 {
+    font-size: 1.5rem;
+    font-family: 'Love Ya Like A Sister', cursive;
+    color: red;
+    display: inline-block;
+    text-align: center;
+}
+/* IMAGE:    EXAMPLE 3 */
+#mainExample3 {
+    width: 280px;
+    height: auto;
+    border: 2px black solid;
+    outline: 3px lime solid;
+    display: inline-block;
+    margin-right: 50px;
+}
+/* IMAGE:   EXAMPLE 4  */
+#mainExample4 {
+    width: 280px;
+    height: auto;
+    border: 2px black solid;
+    outline: 3px lime solid;
+    display: inline-block;
+}
+/* IMAGE:   EXTRA EXAMPLES 1 AND 2 */
+#extra_example1 {
+    width: 20%;
+    height: auto;
+    margin: 30px;
+    border: 2px black solid;
+    outline: 3px lime solid;
+}
+#extra_example2 {
+    width: 20%;
+    height: auto;
+    margin: 30px;
+    border: 2px black solid;
+    outline: 3px lime solid;
+}
+/* ALIGNMENT OF THE EXTRA EXAMPLES TO TOP */
+.wrapper {
+    display: flex;
+    align-items: flex-start;
+}
+footer {
+    font-size: 1rem;
+    font-family:  'Love Ya Like A Sister', cursive;
+    color: blue;
+    text-align: center;
+    margin-top: 15px;
+}
